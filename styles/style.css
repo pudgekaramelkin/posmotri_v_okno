@@ -9,10 +9,11 @@ html {
 }
 
 .page {
+  display: flex;
+  align-items: center;
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
-  overflow-y: hidden;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
@@ -213,7 +214,7 @@ ol {
   border: 1px solid #fff;
   color: #fff;
   text-align: center;
-  font-family: Fira Sans Condensed;
+  font-family: 'Fira Sans Condensed';
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
