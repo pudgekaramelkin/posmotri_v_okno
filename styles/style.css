@@ -157,7 +157,6 @@ ol {
 }
 
 .content__card-link_current {
-  padding: 3px 2px;
   background-color: #545050;
 }
 
@@ -242,7 +241,6 @@ ol {
 }
 
 .content__video-card:active {
-  padding: 3px 2px;
   background-color: #545050;
 }
 
